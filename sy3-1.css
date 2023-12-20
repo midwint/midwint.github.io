@@ -1,0 +1,16 @@
+H2{
+	text-align: center;
+	color:red;
+}
+H3{
+	color:green;
+	text-align: left;
+}
+P{
+	color:black;
+	text-indent: 24px;
+	line-hight: inherit;
+}
+body{
+	background-color:#f5f5f5;
+}
